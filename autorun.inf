@@ -1,0 +1,5 @@
+[Autorun]
+Open=launch.vbs
+Action=Start portable apps
+ShellExecute=launch.vbs
+UseAutoPlay=1
